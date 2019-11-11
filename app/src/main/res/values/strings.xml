@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCalculadora</string>
+    <string name="rmasculino">rmasculino</string>
+    <string name="rfemenino">rfemenino</string>
+    <string name="button1">Mensaje</string>
+    <string name="BTN1">SUMA</string>
+    <string name="btn2">RESTA</string>
+    <string name="btn3">MULTIPLICARCION</string>
+    <string name="BTN4">DIVICION</string>
+    <string name="btn5">00</string>
+</resources>
